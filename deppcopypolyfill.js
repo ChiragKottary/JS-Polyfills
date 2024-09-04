@@ -29,9 +29,5 @@ function deepcopy(val){
 b = deepcopy(arr)
 b[5].push(20);
 
-
-
-
-
 console.log(obj);
 console.log(obj2);
